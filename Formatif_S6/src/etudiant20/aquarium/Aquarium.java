@@ -7,6 +7,7 @@ public class Aquarium {
 
     private List<Poisson> poissons = new ArrayList<>();
     private int capaciteMax;
+    private boolean multiplePoissons = false;
 
     public Aquarium(int capaciteMax) {
         this.capaciteMax = capaciteMax;
