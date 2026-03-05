@@ -1,9 +1,9 @@
-package etudiant12;
+package kwibe_robert;
 
-import etudiant12.aquarium.Aquarium;
-import etudiant12.aquarium.Piranha;
-import etudiant12.aquarium.Poisson;
-import etudiant12.aquarium.PoissonClown;
+import kwibe_robert.aquarium.Aquarium;
+import kwibe_robert.aquarium.Piranha;
+import kwibe_robert.aquarium.Poisson;
+import kwibe_robert.aquarium.PoissonClown;
 
 public class Main {
     public static void main(String[] args) {
