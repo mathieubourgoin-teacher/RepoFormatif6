@@ -1,4 +1,4 @@
-package NathanStPierre.algues;
+package NathanStPierre.aquarium.algues;
 
 public class Algue
 {
