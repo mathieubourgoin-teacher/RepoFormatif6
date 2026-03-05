@@ -19,6 +19,8 @@ public class Main {
         aquarium.afficherPoissons();
 
         System.out.println("\nLes poissons nagent :");
+        System.out.println("\nLes poissons nagent encore :");
+
         aquarium.faireNagerTous();
     }
 }
