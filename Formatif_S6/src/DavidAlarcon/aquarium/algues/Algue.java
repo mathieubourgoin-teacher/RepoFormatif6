@@ -1,4 +1,4 @@
-package DavidAlarcon.algues;
+package DavidAlarcon.aquarium.algues;
 
 public class Algue {
 
