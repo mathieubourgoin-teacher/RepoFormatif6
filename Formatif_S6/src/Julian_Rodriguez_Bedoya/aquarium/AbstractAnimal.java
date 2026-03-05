@@ -1,4 +1,4 @@
-package etudiant07.aquarium;
+package Julian_Rodriguez_Bedoya.aquarium;
 
 public abstract class AbstractAnimal {
 
