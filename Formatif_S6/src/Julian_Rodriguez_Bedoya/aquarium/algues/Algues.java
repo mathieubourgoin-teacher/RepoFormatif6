@@ -1,4 +1,4 @@
-package Julian_Rodriguez_Bedoya.algues;
+package Julian_Rodriguez_Bedoya.aquarium.algues;
 
 public class Algues {
     @Override
