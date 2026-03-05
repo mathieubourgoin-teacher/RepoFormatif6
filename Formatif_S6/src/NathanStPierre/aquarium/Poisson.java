@@ -1,4 +1,4 @@
-package etudiant07.aquarium;
+package NathanStPierre.aquarium;
 
 public abstract class Poisson extends AbstractAnimal implements Nageur {
 

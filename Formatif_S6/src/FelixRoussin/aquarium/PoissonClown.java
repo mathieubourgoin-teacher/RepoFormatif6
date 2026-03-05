@@ -1,4 +1,4 @@
-package etudiant02.aquarium;
+package FelixRoussin.aquarium;
 
 public class PoissonClown extends Poisson {
 
@@ -8,6 +8,6 @@ public class PoissonClown extends Poisson {
 
     @Override
     public void manger() {
-        System.out.println(nom + " mange des frites au ketchup");
+        System.out.println(nom + " mange des micro organismes aquatiques tell que des zooplanctons ou copépodes et même des petits crustacés ");
     }
 }
