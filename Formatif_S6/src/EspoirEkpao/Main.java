@@ -1,9 +1,9 @@
-package etudiant04;
+package EspoirEkpao;
 
-import etudiant04.aquarium.Aquarium;
-import etudiant04.aquarium.Piranha;
-import etudiant04.aquarium.Poisson;
-import etudiant04.aquarium.PoissonClown;
+import EspoirEkpao.aquarium.Aquarium;
+import EspoirEkpao.aquarium.Piranha;
+import EspoirEkpao.aquarium.Poisson;
+import EspoirEkpao.aquarium.PoissonClown;
 
 public class Main {
     public static void main(String[] args) {
