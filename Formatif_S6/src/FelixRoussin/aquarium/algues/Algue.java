@@ -1,4 +1,4 @@
-package FelixRoussin.algues;
+package FelixRoussin.aquarium.algues;
 
 public class Algue {
 
